@@ -1,4 +1,4 @@
-public class CWH_09_ch2_op_pre {
+public class CWH_09_operator_precedence {
     public static void main(String[] args) {
 //        int a = 6 * 5 - 34 / 2;
         //        Precedence & Associative:-
@@ -17,8 +17,8 @@ public class CWH_09_ch2_op_pre {
            */
 //        System.out.println(a);
 //        System.out.println(b);
-//        Quick Quiz:-
 
+//        Quick Quiz:-
 //        1.
 //        int x = 6;
 //        int y = 1;

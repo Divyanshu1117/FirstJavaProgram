@@ -4,7 +4,7 @@ class c1 extends ps4_0 {
 
     void show() {
         System.out.println(proInt);
-        // System.out.println(defInt); // ERROR
+        // System.out.println(defInt); // ERROR:-
     }
 }
 
