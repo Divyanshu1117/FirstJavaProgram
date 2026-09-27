@@ -20,7 +20,7 @@ class SmartTelephone extends Telephone {
     }
 }
 
-public class CWH_60_ch11ps_4 {
+public class CWH_60_ps11_4 {
     public static void main(String[] args) {
         Telephone phone = new SmartTelephone();
         phone.ring();

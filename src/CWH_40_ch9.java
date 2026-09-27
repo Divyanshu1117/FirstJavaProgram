@@ -20,16 +20,15 @@ class MyEmployee {
 }
 
 //        Circle:-
-
 class Circle1 {
     private int radius;
 
-    // Setter
+    // Setter:-
     public void setRadius(int r) {
         radius = r;
     }
 
-    // Getter
+    // Getter:-
     public int getRadius() {
         return radius;
     }

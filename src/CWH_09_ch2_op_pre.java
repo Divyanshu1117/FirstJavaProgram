@@ -1,9 +1,10 @@
 public class CWH_09_ch2_op_pre {
     public static void main(String[] args) {
 //        int a = 6 * 5 - 34 / 2;
-        //        Precedence & Associative
+        //        Precedence & Associative:-
         /*
-        Highest precedence goes to * and / . They are then evaluated on the basis of left to right associativity
+        Highest precedence goes to * and / .
+        They are then evaluated on the basis of left to right associativity:-
         =30-34/2
         =30-17
         =13

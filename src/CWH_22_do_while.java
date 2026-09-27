@@ -1,5 +1,6 @@
-public class CWH_22_ch5_do_while {
+public class CWH_22_do_while {
     public static void main(String[] args) {
+
 //        Do-While Loop:-
 //        int i = 10;
 //        do {

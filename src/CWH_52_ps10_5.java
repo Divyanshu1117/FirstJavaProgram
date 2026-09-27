@@ -17,7 +17,7 @@ class Derived4 extends Derived3 {
     }
 }
 
-public class CWH_52_ch10ps_5 {
+public class CWH_52_ps10_5 {
     public static void main(String[] args) {
         Derived3 obj = new Derived3();
     }

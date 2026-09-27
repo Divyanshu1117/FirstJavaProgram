@@ -1,4 +1,4 @@
-public class CWH_31_Methods {
+public class CWH_31_methods {
 
     static int logic(int x, int y) {
         int z;

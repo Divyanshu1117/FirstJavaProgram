@@ -28,7 +28,7 @@ class Human_0 extends Monkey_0 implements BasicAnimal_0 {
     }
 }
 
-public class CWH_60_ch11ps_5 {
+public class CWH_60_ps11_5 {
     public static void main(String[] args) {
         Monkey_0 m1 = new Human_0();
         m1.jump();

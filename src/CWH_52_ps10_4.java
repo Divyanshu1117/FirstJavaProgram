@@ -57,7 +57,7 @@ class Cuboid1 extends Rectangle3 {
     }
 }
 
-public class CWH_52_ch10ps_4 {
+public class CWH_52_ps10_4 {
 
     public static void main(String[] args) {
 

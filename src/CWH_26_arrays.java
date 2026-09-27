@@ -1,6 +1,8 @@
 public class CWH_26_arrays {
     public static void main(String[] args) {
+
         // ClassRoom Of 500 Students:- You Have To Store Marks Of These 500 Students:-
+
 //        You Have 2 Options:-
 //            1. Create 500 Variables.
 //            2. Use Arrays (Recommended)
@@ -13,6 +15,7 @@ public class CWH_26_arrays {
         // 2. Declaration And Then Memory Allocation:-
 //         int [] marks;
 //         marks = new int [5];
+
         // Initialization:-
 //        marks[0] = 100;
 //        marks[1] = 60;

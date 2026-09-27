@@ -1,7 +1,10 @@
 public class CWH_24_break_and_continue {
     public static void main(String[] args) {
+
 //        Break And Continue Using Loops:-
+
 //        Break Statements:-
+
 //        For Loop:-
 //        for (int i = 0; i < 5; i++){
 //            System.out.println(i);
@@ -11,6 +14,7 @@ public class CWH_24_break_and_continue {
 //                break;
 //            }
 //        }
+
 //        While Loop:-
 //        int i = 0;
 //        while (i < 5) {

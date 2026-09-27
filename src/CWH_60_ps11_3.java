@@ -28,7 +28,7 @@ class Human extends Monkey implements BasicAnimal {
     }
 }
 
-public class CWH_60_ch11ps_3 {
+public class CWH_60_ps11_3 {
     public static void main(String[] args) {
         Human divyanshu = new Human();
         divyanshu.sleep();

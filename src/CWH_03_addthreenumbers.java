@@ -1,4 +1,4 @@
-public class AddThreeNumbers {
+public class CWH_03_addthreenumbers {
     public static void main(String[] args) {
         System.out.print("The Sum Of Three Number Is:-");
         int num1 = 3;

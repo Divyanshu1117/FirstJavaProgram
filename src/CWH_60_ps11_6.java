@@ -10,7 +10,7 @@ interface SmartTVRemote extends TVRemote {
     void openYouTube();
 }
 
-public class CWH_60_ch11ps_6 {
+public class CWH_60_ps11_6 {
     public static void main(String[] args) {
     }
 }

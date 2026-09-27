@@ -1,5 +1,6 @@
-public class CWH_21_ch5_loops {
+public class CWH_21_loops {
     public static void main(String[] args) {
+
 //        While Loop:-
 //        System.out.println("Using Loops:- ");
 //        int i = 1;
@@ -11,6 +12,7 @@ public class CWH_21_ch5_loops {
 //        while(true){
 //            System.out.println("I am an infinite while loop!:- ");
 //        }
+
 //        Quick Quiz:-
 //        int i1 = 100;
 //        while(i1 <= 200){

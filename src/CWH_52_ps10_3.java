@@ -25,7 +25,7 @@ class Cylinder4 extends Circle3 {
     }
 }
 
-public class CWH_52_ch10ps_3 {
+public class CWH_52_ps10_3 {
 
     public static void main(String[] args) {
 

@@ -14,7 +14,7 @@ class FountainPen_0 extends Pen_0 {
     }
 }
 
-public class CWH_60_ch11ps_1 {
+public class CWH_60_ps11_1 {
     public static void main(String[] args) {
         FountainPen_0 pen_0 = new FountainPen_0();
         pen_0.write();

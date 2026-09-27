@@ -30,7 +30,7 @@ class Cylinder3 extends Circle3 {
     }
 }
 
-public class CWH_52_ch10ps_1 {
+public class CWH_52_ps10_1 {
     public static void main(String[] args) {
 
 //        Circle3 objC = new Circle3(12);

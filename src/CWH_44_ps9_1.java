@@ -19,7 +19,7 @@ class Cylinder {
     }
 }
 
-public class CWH_44_ps09_Q1 {
+public class CWH_44_ps9_1 {
     public static void main(String[] args) {
         Cylinder myCylinder = new Cylinder();
         myCylinder.setHeight(12);

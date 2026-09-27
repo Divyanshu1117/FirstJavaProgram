@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise1 {
+public class CWH_11_ex1sol {
     public static void main(String[] args) {
         System.out.println("Please Enter Your Marks:-");
         Scanner sc = new Scanner(System.in);

@@ -25,7 +25,7 @@ class Cylinder_2 {
     }
 }
 
-public class CWH_44_ps09_Q3 {
+public class CWH_44_ps9_3 {
     public static void main(String[] args) {
         Cylinder_2 myCylinder = new Cylinder_2(12, 9);
         System.out.println(myCylinder.getHeight());

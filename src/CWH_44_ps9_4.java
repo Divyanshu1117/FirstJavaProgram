@@ -23,7 +23,7 @@ class Rectangle_1 {
     }
 }
 
-public class CWH_44_ps09_Q4 {
+public class CWH_44_ps9_4 {
     public static void main(String[] args) {
         Rectangle_1 rectangle = new Rectangle_1(12, 56);
         System.out.println(rectangle.getLength());

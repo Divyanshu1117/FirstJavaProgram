@@ -25,10 +25,9 @@ class Cylinder_1 {
     public double volume() {
         return Math.PI * radius * radius * height;
     }
-
 }
 
-public class CWH_44_ps09_Q2 {
+public class CWH_44_ps9_2 {
     public static void main(String[] args) {
         Cylinder_1 myCylinder = new Cylinder_1();
         myCylinder.setHeight(12);

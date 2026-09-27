@@ -20,7 +20,7 @@ class TV implements TVRemote_0 {
     }
 }
 
-public class CWH_60_ch11ps_7 {
+public class CWH_60_ps11_7 {
     public static void main(String[] args) {
         TV tv = new TV();
         tv.powerOn();
