@@ -1,4 +1,4 @@
-public class CWH_31_methods {
+public class J031_methods {
 
     static int logic(int x, int y) {
         int z;
@@ -14,13 +14,14 @@ public class CWH_31_methods {
         int a = 5;
         int b = 7;
         int c;
-        // Method Invocation Using Object Creation.
-        // CWH_31_Methods obj = new CWH_31_Methods();
-        // c = obj.logic(a, b);
+        // Method Invocation Using Object Creation:-
+//        J031_methods obj = new J031_methods();
+//        c = obj.logic(a, b);
         c = logic(a, b);
         int a1 = 2;
         int b1 = 1;
         int c1;
+//        c1 = obj.logic(a1, b1);
         c1 = logic(a1, b1);
         System.out.println(c);
         System.out.println(c1);
