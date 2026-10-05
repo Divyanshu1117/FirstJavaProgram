@@ -1,4 +1,4 @@
-public class CWH_04_literals {
+public class J004_literals {
     public static void main(String[] args) {
         byte age = 34;
         int age2 = 56;
@@ -8,7 +8,7 @@ public class CWH_04_literals {
         double d1 = 4.66D;
         long ageDino = 566666666874L;
         boolean a = true;
-        String str = "Harry";
+        String str = "Divyanshu";
         System.out.println(str);
     }
 }

@@ -1,6 +1,6 @@
-public class CWH_03_addthreenumbers {
+public class J003_add_three_numbers {
     public static void main(String[] args) {
-        System.out.print("The Sum Of Three Number Is:-");
+        System.out.print("The Sum Of Three Number Is:- ");
         int num1 = 3;
         int num2 = 5;
         int num3 = 7;

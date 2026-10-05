@@ -3,3 +3,6 @@ public class J001_main {
         System.out.println("Hello and Welcome!");
     }
 }
+
+//AddTwoNumber:- Pascal Naming Convention.
+//addTwoNumber:- camel case Naming Convention.
