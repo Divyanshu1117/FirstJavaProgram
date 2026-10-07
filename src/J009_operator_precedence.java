@@ -1,22 +1,21 @@
-public class CWH_09_operator_precedence {
+public class J009_operator_precedence {
     public static void main(String[] args) {
-//        int a = 6 * 5 - 34 / 2;
-        //        Precedence & Associative:-
-        /*
-        Highest precedence goes to * and / .
-        They are then evaluated on the basis of left to right associativity:-
-        =30-34/2
-        =30-17
-        =13
-         */
+
+//        Precedence & Associative:-
+        int a = 6 * 5 - 34 / 2;
+        System.out.println(a);
+
+//        Highest precedence goes to * and / .
+//        They are then evaluated on the basis of left to right associativity:-
+//        =30-34/2
+//        =30-17
+//        =13
+
 //        int b = 60 / 5 - 34 * 2;
-          /*
-          =12-34*2
-          =12-68
-          =-56
-           */
-//        System.out.println(a);
 //        System.out.println(b);
+//        =12-34*2
+//        =12-68
+//        =-56
 
 //        Quick Quiz:-
 //        1.
@@ -39,10 +38,10 @@ public class CWH_09_operator_precedence {
 //        System.out.println(k);
 
 //        4.
-        int a = 16;
-        int b = 11;
-        int d = 15;
-        int k = a * b - d;
-        System.out.println(k);
+//        int a = 16;
+//        int b = 11;
+//        int d = 15;
+//        int k = a * b - d;
+//        System.out.println(k);
     }
 }

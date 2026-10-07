@@ -1,4 +1,4 @@
-public class CWH_07_ps1_1 {
+public class J007_ps1_1 {
     public static void main(String[] args) {
         int a = 56;
         int b = 78;
