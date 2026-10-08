@@ -1,6 +1,6 @@
-public class CWH_15_ps3_4 {
+public class J015_ps3_4 {
     public static void main(String[] args) {
-        String myString = "This string contain double and  triple spaces";
+        String myString = "This string contain double and  triple   spaces";
         System.out.println(myString.indexOf("  "));
         System.out.println(myString.indexOf("   "));
     }
