@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class CWH_19_ps4_4 {
+public class J019_ps4_4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter Day Number:-");
+        System.out.print("Enter Day Number:- ");
         int day = sc.nextInt();
         switch (day) {
             case 1 -> System.out.println("Monday");

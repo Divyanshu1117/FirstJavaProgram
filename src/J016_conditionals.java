@@ -1,4 +1,4 @@
-public class CWH_16_conditionals {
+public class J016_conditionals {
     public static void main(String[] args) {
         int age = 19;
         boolean condition = (age == 18);
