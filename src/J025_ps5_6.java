@@ -1,4 +1,4 @@
-public class CWH_25_ps5_6 {
+public class J025_ps5_6 {
     public static void main(String[] args) {
         int n = 5;
         // What Is Factorial n = n * n - 1 * n - 2 ...... 1 :-

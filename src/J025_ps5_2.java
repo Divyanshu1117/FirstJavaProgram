@@ -1,4 +1,4 @@
-public class CWH_25_ps5_2 {
+public class J025_ps5_2 {
     public static void main(String[] args) {
         // While Loop:-
         int sum = 0;

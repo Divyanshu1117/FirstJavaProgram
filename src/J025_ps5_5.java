@@ -1,4 +1,4 @@
-public class CWH_25_ps5_5 {
+public class J025_ps5_5 {
     public static void main(String[] args) {
         // What Is Factorial n = n * n - 1 * n - 2 ...... 1 :-
         // 5! = 5 * 4 * 3 * 2 * 1 = 120.
@@ -7,6 +7,6 @@ public class CWH_25_ps5_5 {
         for (int i = 1; i <= n; i++) {
             factorial *= i;
         }
-        System.out.println("Factorial Of " + n + " is : " + factorial);
+        System.out.println("Factorial of " + n + " is : " + factorial);
     }
 }
