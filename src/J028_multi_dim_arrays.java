@@ -9,7 +9,7 @@ public class J028_multi_dim_arrays {
         flats[1][0] = 201;
         flats[1][1] = 202;
         flats[1][2] = 203;
-        // Displaying The 2 - D Array (For Loop):-
+//        Displaying The 2 - D Array (For Loop):-
         System.out.println("Printing A 2 - D Array Using For Loop:-");
         for (int i = 0; i < flats.length; i++) {
             for (int j = 0; j < flats[i].length; j++) {
