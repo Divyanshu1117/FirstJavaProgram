@@ -14,7 +14,7 @@ public class J031_methods {
         int a = 5;
         int b = 7;
         int c;
-        // Method Invocation Using Object Creation:-
+//        Method Invocation Using Object Creation:-
 //        J031_methods obj = new J031_methods();
 //        c = obj.logic(a, b);
         c = logic(a, b);
