@@ -1,15 +1,17 @@
-public class CWH_27_arrays {
+public class J027_arrays {
     public static void main(String[] args) {
 
-//        String [] students = {"Harry", "Rohan", "Shubham", "Lovish"};
+//        String [] students = {"Divyanshu", "Rohan", "Shubham", "Lovish"};
 //        System.out.println(students.length);
 //        System.out.println(students[2]);
 
 //        float [] marks = {98.5f, 45.5f, 79.5f, 99.5f, 80.5f};
-//        int [] marks = {99, 45, 79, 99, 80};
+////        int [] marks = {99, 45, 79, 99, 80};
 //        System.out.println(marks.length);
+//        System.out.println(marks[2]);
 
 //        Displaying The Array (Naive Way):-
+//        int [] marks = {99, 45, 79, 99, 80};
 //        System.out.println("Printing Using Naive Way:-");
 //        System.out.println(marks[0]);
 //        System.out.println(marks[1]);
@@ -34,7 +36,7 @@ public class CWH_27_arrays {
 
 //        For Each Loop:-
 //        Displaying The Array (For-Each Loop):-
-//        System.out.println("Printing Using For-Each Loop:-");
+        System.out.println("Printing Using For-Each Loop:-");
         int[] marks = {99, 45, 79, 99, 80};
         for (int element : marks) {
             System.out.println(element);

@@ -1,6 +1,6 @@
-public class CWH_28_multi_dim_arrays {
+public class J028_multi_dim_arrays {
     public static void main(String[] args) {
-        int[] marks; // A 1-D Array:-
+//        int[] marks; // A 1-D Array:-
         int[][] flats; // A 2 - D Array:-
         flats = new int[2][3];
         flats[0][0] = 101;
@@ -16,7 +16,7 @@ public class CWH_28_multi_dim_arrays {
                 System.out.print(flats[i][j]);
                 System.out.print(" ");
             }
-            System.out.println("\n");
+            System.out.print("\n");
         }
     }
 }
