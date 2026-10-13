@@ -1,4 +1,4 @@
-public class CWH_35_ps7_8 {
+public class J035_ps7_8 {
     static void pattern1_rec(int n) {
         if (n > 0) {
             pattern1_rec(n - 1);

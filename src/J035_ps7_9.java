@@ -1,4 +1,4 @@
-public class CWH_35_ps7_9 {
+public class J035_ps7_9 {
     static float celsiusToFahrenheit(float celsius) {
         return (celsius * 9 / 5) + 32;
     }

@@ -1,4 +1,4 @@
-public class CWH_34_1_recursion {
+public class J034_1_recursion {
 
 //      Fibonacci Series:
 //      fibonacci(0) = 0
@@ -36,19 +36,13 @@ public class CWH_34_1_recursion {
     }
 
     public static void main(String[] args) {
-
         int x = 10;
-
         System.out.println("The Fibonacci series using recursion is:");
-
         for (int i = 0; i < x; i++) {
             System.out.print(fibonacci(i) + " ");
         }
-
         System.out.println();
-
         System.out.println("The Fibonacci series using iteration is:");
-
         fibonacci_iterative(x);
     }
 }

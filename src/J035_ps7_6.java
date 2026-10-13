@@ -1,4 +1,4 @@
-public class CWH_35_ps7_6 {
+public class J035_ps7_6 {
     static float average(int x, int... arr) {
         int sum = x;
         for (int a : arr) {

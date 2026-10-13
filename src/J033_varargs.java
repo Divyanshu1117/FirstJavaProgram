@@ -1,4 +1,4 @@
-public class CWH_33_varargs {
+public class J033_varargs {
 
 //    static int sum(int a, int b) {
 //        return a + b;

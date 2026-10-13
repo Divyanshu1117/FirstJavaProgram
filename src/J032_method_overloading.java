@@ -1,4 +1,4 @@
-public class CWH_32_method_overloading {
+public class J032_method_overloading {
 
     static void foo() {
         System.out.println("Good Morning Bro!");

@@ -1,4 +1,4 @@
-public class CWH_35_ps7_3 {
+public class J035_ps7_3 {
 //     sum(n) = 1 + 2 + 3... + n
 //     sum(n) = 1 + 2 + 3... + n - 1 + n
 //     sum(n) = sum(n-1) + n

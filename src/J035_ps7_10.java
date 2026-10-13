@@ -1,4 +1,4 @@
-public class CWH_35_ps7_10 {
+public class J035_ps7_10 {
     static int sum_iterative(int n) {
         int sum = 0;
         for (int i = 1; i <= n; i++) {
