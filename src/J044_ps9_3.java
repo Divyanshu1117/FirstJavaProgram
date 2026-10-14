@@ -2,7 +2,7 @@ class Cylinder_2 {
     private int radius;
     private int height;
 
-    // Constructor:-
+    //    Constructor:-
     public Cylinder_2(int height, int radius) {
         this.height = height;
         this.radius = radius;
@@ -25,7 +25,7 @@ class Cylinder_2 {
     }
 }
 
-public class CWH_44_ps9_3 {
+public class J044_ps9_3 {
     public static void main(String[] args) {
         Cylinder_2 myCylinder = new Cylinder_2(12, 9);
         System.out.println(myCylinder.getHeight());

@@ -10,7 +10,7 @@ class Sphere {
     }
 }
 
-public class CWH_44_ps9_5 {
+public class J044_ps9_5 {
     public static void main(String[] args) {
 
         Sphere mySphere = new Sphere();

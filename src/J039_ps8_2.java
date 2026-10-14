@@ -12,7 +12,7 @@ class CellPhone {
     }
 }
 
-public class CWH_39_ps8_2 {
+public class J039_ps8_2 {
     public static void main(String[] args) {
         CellPhone motog31 = new CellPhone();
         motog31.callFriend();

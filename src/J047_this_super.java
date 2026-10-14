@@ -22,7 +22,7 @@ class TwoClass extends OneClass {
     }
 }
 
-public class CWH_47_this_super {
+public class J047_this_super {
     public static void main(String[] args) {
         OneClass e = new OneClass(65);
         TwoClass d = new TwoClass(5);

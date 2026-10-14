@@ -13,7 +13,7 @@ class Employee {
     }
 }
 
-public class CWH_38_custom_class {
+public class J038_custom_class {
     public static void main(String[] args) {
         System.out.println("This is our custom class");
 

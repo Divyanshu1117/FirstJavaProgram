@@ -21,7 +21,7 @@ class Game {
     }
 
     void takeUserInput() {
-        System.out.println("Guess the number:-");
+        System.out.print("Guess the number:- ");
         Scanner sc = new Scanner(System.in);
         inputNumber = sc.nextInt();
     }

@@ -27,7 +27,7 @@ class Derived extends Base {
     }
 }
 
-public class CWH_45_inheritance_0_ {
+public class J045_inheritance_0_ {
     public static void main(String[] args) {
 
 //        Creating an object of base class:-

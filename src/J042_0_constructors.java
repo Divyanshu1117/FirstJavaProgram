@@ -42,7 +42,7 @@ class MyMainEmployee {
     }
 }
 
-public class CWH_42_0_constructors {
+public class J042_0_constructors {
     public static void main(String[] args) {
 
         MyMainEmployee divyanshu = new MyMainEmployee();

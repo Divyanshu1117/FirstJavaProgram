@@ -20,7 +20,7 @@ class SmartPhone extends Phone {
     }
 }
 
-public class CWH_49_dynamic_method_dispatch {
+public class J049_dynamic_method_dispatch {
     public static void main(String[] args) {
 //        Phone obj = new Phone(); // Allowed:-
 //        SmartPhone smobj = new SmartPhone(); // Allowed:-

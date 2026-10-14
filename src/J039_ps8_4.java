@@ -11,7 +11,7 @@ class Rectangle {
     }
 }
 
-public class CWH_39_ps8_4 {
+public class J039_ps8_4 {
     public static void main(String[] args) {
         Rectangle rect = new Rectangle();
         rect.length = 5;

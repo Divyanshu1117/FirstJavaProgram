@@ -10,7 +10,7 @@ class Circle {
     }
 }
 
-public class CWH_39_ps8_6 {
+public class J039_ps8_6 {
     public static void main(String[] args) {
         Circle c = new Circle();
         c.radius = 3;

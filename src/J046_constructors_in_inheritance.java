@@ -32,7 +32,7 @@ class ChildOfDerived1 extends Derived1 {
     }
 }
 
-public class CWH_46_constructors_in_inheritance {
+public class J046_constructors_in_inheritance {
     public static void main(String[] args) {
 //        Base1 b = new Base1();
 //        Derived1 d = new Derived1();

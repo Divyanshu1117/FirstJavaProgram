@@ -10,7 +10,7 @@ class Square {
     }
 }
 
-public class CWH_39_ps8_3 {
+public class J039_ps8_3 {
     public static void main(String[] args) {
         Square sq = new Square();
         sq.side = 3;

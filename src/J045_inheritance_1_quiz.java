@@ -12,7 +12,7 @@ class Dog extends Animal {
     }
 }
 
-public class CWH_45_inheritance_1_quiz {
+public class J045_inheritance_1_quiz {
     public static void main(String[] args) {
 
         Dog myDog = new Dog();

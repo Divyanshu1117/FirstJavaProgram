@@ -15,7 +15,7 @@ class Employee1 {
     }
 }
 
-public class CWH_39_ps8_1 {
+public class J039_ps8_1 {
     public static void main(String[] args) {
         Employee1 cold = new Employee1();
         cold.setName("Coldzero");

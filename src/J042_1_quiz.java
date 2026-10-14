@@ -4,14 +4,14 @@ class My_Employee {
     private String name;
     private int salary;
 
-    // Constructor 1:-
+    //    Constructor 1:-
     public My_Employee(int id, String name, int salary) {
         this.id = id;
         this.name = name;
         this.salary = salary;
     }
 
-    // Constructor 2 - overloaded constructor:-
+    //    Constructor 2 - overloaded constructor:-
     public My_Employee(int salary) {
         this.salary = salary;
     }
@@ -29,7 +29,7 @@ class My_Employee {
     }
 }
 
-public class CWH_42_1_quiz {
+public class J042_1_quiz {
 
     public static void main(String[] args) {
 

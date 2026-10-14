@@ -23,7 +23,7 @@ class B extends A {
     }
 }
 
-public class CWH_48_method_overriding {
+public class J048_method_overriding {
     public static void main(String[] args) {
         A a = new A();
         a.method2();

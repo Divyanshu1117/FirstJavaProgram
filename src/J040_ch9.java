@@ -23,12 +23,12 @@ class MyEmployee {
 class Circle1 {
     private int radius;
 
-    // Setter:-
+    //        Setter:-
     public void setRadius(int r) {
         radius = r;
     }
 
-    // Getter:-
+    //        Getter:-
     public int getRadius() {
         return radius;
     }
@@ -42,7 +42,7 @@ class Circle1 {
     }
 }
 
-public class CWH_40_ch9 {
+public class J040_ch9 {
     public static void main(String[] args) {
         MyEmployee divyanshu = new MyEmployee();
 //        divyanshu.id = 45;
