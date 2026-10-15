@@ -40,7 +40,7 @@ class MySampleClass implements childSampleInterface { // Allowed:-
     }
 }
 
-public class CWH_58_inheritance_interfaces {
+public class J058_inheritance_interfaces {
     public static void main(String[] args) {
         MySampleClass obj = new MySampleClass();
         obj.meth1();

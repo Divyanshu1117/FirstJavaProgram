@@ -53,7 +53,7 @@ class Smart_Phone extends MyCellPhone implements MyCamera, MyWifi {
     }
 }
 
-public class CWH_57_default {
+public class J057_default {
     public static void main(String[] args) {
         Smart_Phone ms = new Smart_Phone();
         ms.record4KVideo();

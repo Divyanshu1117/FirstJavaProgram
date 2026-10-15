@@ -8,7 +8,7 @@ class Rectangle3 {
         this.width = width;
     }
 
-    // Getters:-
+    //    Getters:-
     public int getLength() {
         return length;
     }
@@ -17,7 +17,7 @@ class Rectangle3 {
         return width;
     }
 
-    // Setters:-
+    //    Setters:-
     public void setLength(int length) {
         this.length = length;
     }
@@ -26,7 +26,7 @@ class Rectangle3 {
         this.width = width;
     }
 
-    // Area of Rectangle:-
+    //    Area of Rectangle:-
     public int area() {
         return length * width;
     }
@@ -41,23 +41,23 @@ class Cuboid1 extends Rectangle3 {
         this.height = height;
     }
 
-    // Getter:-
+    //    Getter:-
     public int getHeight() {
         return height;
     }
 
-    // Setter:-
+    //    Setter:-
     public void setHeight(int height) {
         this.height = height;
     }
 
-    // Volume of Cuboid:-
+    //    Volume of Cuboid:-
     public int volume() {
         return getLength() * getWidth() * height;
     }
 }
 
-public class CWH_52_ps10_4 {
+public class J052_ps10_4 {
 
     public static void main(String[] args) {
 

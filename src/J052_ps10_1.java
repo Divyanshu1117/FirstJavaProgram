@@ -3,11 +3,11 @@ class Circle3 {
     public int radius;
 
     Circle3() {
-        System.out.println("I am non parameterized Circle");
+        System.out.println("I am non parameterized Circle.");
     }
 
     Circle3(int r) {
-        System.out.println("I am Circle parameterized constructor:-");
+        System.out.println("I am Circle parameterized constructor.");
         this.radius = r;
     }
 
@@ -21,7 +21,7 @@ class Cylinder3 extends Circle3 {
 
     Cylinder3(int r, int h) {
         super(r);
-        System.out.println("I am Cylinder3 parameterized constructor:-");
+        System.out.println("I am Cylinder3 parameterized constructor.");
         this.height = h;
     }
 
@@ -30,7 +30,7 @@ class Cylinder3 extends Circle3 {
     }
 }
 
-public class CWH_52_ps10_1 {
+public class J052_ps10_1 {
     public static void main(String[] args) {
 
 //        Circle3 objC = new Circle3(12);

@@ -57,7 +57,7 @@ class My_Smart_Phone extends My_CellPhone implements My_Camera, My_Wifi {
     }
 }
 
-public class CWH_59_polymorphism {
+public class J059_polymorphism {
     public static void main(String[] args) {
         My_Camera cam = new My_Smart_Phone(); // This is a smartphone, but use it as a camera:-
 //        Reference:-

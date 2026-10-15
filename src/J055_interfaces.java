@@ -35,7 +35,7 @@ class HeroCycle implements Bicycle, HornBicycle {
     }
 }
 
-public class CWH_55_interfaces {
+public class J055_interfaces {
     public static void main(String[] args) {
         HeroCycle hero = new HeroCycle();
         hero.applyBrake(1);

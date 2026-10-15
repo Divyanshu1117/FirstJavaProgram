@@ -1,4 +1,4 @@
-class Monkey_0 {
+class Monkey {
     void jump() {
         System.out.println("Jumping...");
     }
@@ -8,13 +8,13 @@ class Monkey_0 {
     }
 }
 
-interface BasicAnimal_0 {
+interface BasicAnimal {
     void eat();
 
     void sleep();
 }
 
-class Human_0 extends Monkey_0 implements BasicAnimal_0 {
+class Human extends Monkey implements BasicAnimal {
     void speak() {
         System.out.println("Hello Sir...");
     }
@@ -28,16 +28,9 @@ class Human_0 extends Monkey_0 implements BasicAnimal_0 {
     }
 }
 
-public class CWH_60_ps11_5 {
+public class J060_ps11_3 {
     public static void main(String[] args) {
-        Monkey_0 m1 = new Human_0();
-        m1.jump();
-        m1.bite();
-//        m1.speak(); // Cannot use speak method because the reference is monkey which does not have speak method:-
-
-        BasicAnimal_0 cold = new Human_0();
-//        cold.speak(); // Error:-
-        cold.eat();
-        cold.sleep();
+        Human divyanshu = new Human();
+        divyanshu.sleep();
     }
 }

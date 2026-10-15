@@ -41,7 +41,7 @@ class Library {
     }
 }
 
-public class CWH_61_ex4sol {
+public class J061_ex4sol {
     public static void main(String[] args) {
         Library centralLibrary = new Library();
         centralLibrary.addBook("Harry Potter Book");
