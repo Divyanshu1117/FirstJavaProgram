@@ -1,4 +1,4 @@
-public class CWH_78_errors {
+public class J078_errors {
     public static void main(String[] args) {
 //        int a = 5 // Syntax Error:-
         int a = 5;

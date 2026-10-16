@@ -1,4 +1,4 @@
-import CWH_65_packages.DivyanshuGym;
+import J065_packages.DivyanshuGym;
 
 public class UsingPackage {
     public static void main(String[] args) {

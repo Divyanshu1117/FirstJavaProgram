@@ -1,4 +1,4 @@
-public class CWH_80_try {
+public class J080_try {
     public static void main(String[] args) {
         int a = 6000;
         int b = 0;

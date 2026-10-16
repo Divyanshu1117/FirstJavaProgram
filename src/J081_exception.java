@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CWH_81_exception {
+public class J081_exception {
     public static void main(String[] args) {
         int[] marks = new int[3];
         marks[0] = 56;

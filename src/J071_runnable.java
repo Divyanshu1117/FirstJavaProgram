@@ -18,7 +18,7 @@ class MyThreadRunnable2 implements Runnable {
     }
 }
 
-public class CWH_71_runnable {
+public class J071_runnable {
     public static void main(String[] args) {
         MyThreadRunnable1 bullet1 = new MyThreadRunnable1();
         Thread gun1 = new Thread(bullet1);

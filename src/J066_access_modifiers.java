@@ -12,7 +12,7 @@ class C1 {
     }
 }
 
-public class CWH_66_access_modifiers {
+public class J066_access_modifiers {
     public static void main(String[] args) {
         C1 c = new C1();
 //        c.meath1();

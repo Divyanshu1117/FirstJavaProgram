@@ -12,7 +12,7 @@ class My_Thread extends Thread {
     }
 }
 
-public class CWH_74_thread_priorities {
+public class J074_thread_priorities {
     public static void main(String[] args) {
         // Ready Queue: T1 T2 T3 T4 T5
 //        My_Thread t1 = new My_Thread("Divyanshu 1");

@@ -1,4 +1,4 @@
-package CWH_65_packages.codewithdivyanshu.gym.DivyanshuGym;
+package J065_packages.codewithdivyanshu.gym.DivyanshuGym;
 
 public class DivyanshuGym {
 

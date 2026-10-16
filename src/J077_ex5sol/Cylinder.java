@@ -1,4 +1,4 @@
-package CWH_77_ex5sol;
+package J077_ex5sol;
 
 public class Cylinder extends Shape {
 

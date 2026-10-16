@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CWH_79_errors_demo {
+public class J079_errors_demo {
     public static void main(String[] args) {
 //        Syntax Error:-
 //        int a = 0 // Error:- No Semicolon:-
@@ -16,6 +16,7 @@ public class CWH_79_errors_demo {
 //        Runtime Error, Exception:-
         int k;
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Number: ");
         k = sc.nextInt();
         System.out.println("Integer part of 1000 divided by k is " + 1000 / k);
     }

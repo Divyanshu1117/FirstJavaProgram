@@ -24,7 +24,7 @@ class _Welcome_Bro_ extends Thread {
     }
 }
 
-public class CWH_76_ps13_5 {
+public class J076_ps13_5 {
     public static void main(String[] args) {
         _Good_Morning_ good = new _Good_Morning_();
         _Welcome_Bro_ welcome = new _Welcome_Bro_();

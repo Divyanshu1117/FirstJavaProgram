@@ -1,4 +1,4 @@
-package CWH_77_ex5sol;
+package J077_ex5sol;
 
 public class Shape {
     int dim1, dim2;

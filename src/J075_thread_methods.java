@@ -24,7 +24,7 @@ class My_Thread2 extends Thread {
     }
 }
 
-public class CWH_75_thread_methods {
+public class J075_thread_methods {
     public static void main(String[] args) {
         My_Thread1 t1 = new My_Thread1();
         My_Thread2 t2 = new My_Thread2();

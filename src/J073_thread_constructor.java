@@ -12,7 +12,7 @@ class MyThr extends Thread {
     }
 }
 
-public class CWH_73_thread_constructor {
+public class J073_thread_constructor {
     public static void main(String[] args) {
         MyThr t1 = new MyThr("Divyanshu");
         MyThr t2 = new MyThr("Lovish");
