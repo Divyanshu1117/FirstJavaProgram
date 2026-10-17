@@ -1,4 +1,4 @@
-public class CWH_96_date_and_time {
+public class J096_date_and_time {
     public static void main(String[] args) {
 
         long milliseconds = System.currentTimeMillis();

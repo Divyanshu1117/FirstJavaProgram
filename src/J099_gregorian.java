@@ -2,7 +2,7 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.TimeZone;
 
-public class CWH_99_gregorian {
+public class J099_gregorian {
     public static void main(String[] args) {
         Calendar c = Calendar.getInstance();
         System.out.println(c.getTime());

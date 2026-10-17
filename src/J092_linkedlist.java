@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class CWH_92_linkedlist {
+public class J092_linkedlist {
     public static void main(String[] args) {
 //        LinkedList:-
         LinkedList<Integer> l1 = new LinkedList<>();

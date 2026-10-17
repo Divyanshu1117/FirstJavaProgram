@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CWH_86_ps14_3 {
+public class J086_ps14_3 {
 
     public static void main(String[] args) {
 
@@ -14,7 +14,7 @@ public class CWH_86_ps14_3 {
         int i = 0;
         while (flag && i < 5) {
             try {
-                System.out.println("Enter the value of index:-");
+                System.out.print("Enter the value of index: ");
                 index = sc.nextInt();
                 System.out.println("The value of marks[index] is " + marks[index]);
                 break;

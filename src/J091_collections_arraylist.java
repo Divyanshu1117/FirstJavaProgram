@@ -1,8 +1,6 @@
-import java.util.*;
-
 import java.util.ArrayList;
 
-public class CWH_91_collections_arraylist {
+public class J091_collections_arraylist {
     public static void main(String[] args) {
 //        ArrayList:-
         ArrayList<Integer> l1 = new ArrayList<>();

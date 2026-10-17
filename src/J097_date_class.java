@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class CWH_97_date_class {
+public class J097_date_class {
     public static void main(String[] args) {
 
 //        Quick Quiz:-

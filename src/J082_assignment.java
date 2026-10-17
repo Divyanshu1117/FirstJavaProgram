@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CWH_82_assignment {
+public class J082_assignment {
     public static void main(String[] args) {
 
         int[] marks = new int[3];
@@ -11,7 +11,7 @@ public class CWH_82_assignment {
         Scanner sc = new Scanner(System.in);
         boolean flag = true;
         while (flag) {
-            System.out.println("Enter the value of index:- ");
+            System.out.print("Enter the value of index: ");
             int ind = sc.nextInt();
             try {
                 System.out.println("Welcome to my No 1 Home...");

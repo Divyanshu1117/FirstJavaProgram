@@ -11,7 +11,7 @@ class NegativeRadiusException extends Exception {
     }
 }
 
-public class CWH_84_throw_and_throws {
+public class J084_throw_and_throws {
     public static double area(int r) throws NegativeRadiusException {
         if (r < 0) {
             throw new NegativeRadiusException();
@@ -27,7 +27,7 @@ public class CWH_84_throw_and_throws {
     }
 
     public static void main(String[] args) {
-        // Lovish:- Uses Divide Function Created By Divyanshu:-
+//        Lovish:- Uses Divide Function Created By Divyanshu:-
         try {
 //            int c = divide(6, 0);
 //            System.out.println(c);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CWH_82_nested_try_catch {
+public class J082_nested_try_catch {
     public static void main(String[] args) {
 
         int[] marks = new int[3];
@@ -9,7 +9,7 @@ public class CWH_82_nested_try_catch {
         marks[2] = 55;
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the value of index:- ");
+        System.out.print("Enter the value of index: ");
         int ind = sc.nextInt();
         try {
             System.out.println("Welcome to my No 1 Home...");

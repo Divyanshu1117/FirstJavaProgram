@@ -1,6 +1,6 @@
 import java.util.ArrayDeque;
 
-public class CWH_93_arraydeque {
+public class J093_arraydeque {
     public static void main(String[] args) {
         ArrayDeque<Integer> ad1 = new ArrayDeque<>();
         ad1.add(6);

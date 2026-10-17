@@ -1,4 +1,4 @@
-public class CWH_86_ps14_2 {
+public class J086_ps14_2 {
 
     public static void main(String[] args) {
 
