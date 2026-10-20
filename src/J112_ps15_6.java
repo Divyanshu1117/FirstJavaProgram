@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class CWH_112_ps15_6 {
+public class J112_ps15_6 {
     public static void main(String[] args) {
         File folder = new File("MultiplicationTables");
         if (!folder.exists()) {

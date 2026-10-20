@@ -36,7 +36,7 @@ class MyGeneric<T1, T2> {
     }
 }
 
-public class CWH_110_generics {
+public class J110_generics {
     public static void main(String[] args) {
         ArrayList<Integer> arrayList = new ArrayList<Integer>();
 //        ArrayList<Integer> arrayList = new ArrayList<Integer>(); // This will produce an error:-
@@ -45,7 +45,7 @@ public class CWH_110_generics {
         arrayList.add(643);
         int a = arrayList.get(0);
 //        System.out.println(a);
-        MyGeneric<String, Integer> g1 = new MyGeneric<String, Integer>(23, "MyString is my String. ", 45);
+        MyGeneric<String, Integer> g1 = new MyGeneric<String, Integer>(23, "MyString is my String: ", 45);
         String str = g1.getT1();
         Integer int1 = g1.getT2();
         System.out.println(str + int1);

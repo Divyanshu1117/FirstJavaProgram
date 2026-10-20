@@ -38,7 +38,7 @@ class My_Library {
     }
 }
 
-public class CWH_113_ex7sol {
+public class J113_ex7sol {
     public static void main(String[] args) {
         ArrayList<Book> book = new ArrayList<>();
         Book b1 = new Book("Algorithms", "Ankit");

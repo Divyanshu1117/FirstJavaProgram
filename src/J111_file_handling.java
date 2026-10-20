@@ -1,13 +1,9 @@
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Scanner;
 
-public class CWH_111_file_handling {
+public class J111_file_handling {
     public static void main(String[] args) {
 //        Code to create a new file:-
-//        File myFile = new File("CWH_111_file_handling.txt");
+//        File myFile = new File("J111_file_handling.txt");
 //        try {
 //            myFile.createNewFile();
 //        } catch (IOException e) {
@@ -17,7 +13,7 @@ public class CWH_111_file_handling {
 
 //        Code to write to a file:-
 //        try {
-//            FileWriter fileWriter = new FileWriter("CWH_111_file_handling.txt");
+//            FileWriter fileWriter = new FileWriter("J111_file_handling.txt");
 //            fileWriter.write("Hello my name is Divyanshu. \nOK Bye!...");
 //            fileWriter.close();
 //        } catch (IOException e) {
@@ -25,7 +21,7 @@ public class CWH_111_file_handling {
 //        }
 
 //        Reading a file:-
-//        File myFile = new File("CWH_111_file_handling.txt");
+//        File myFile = new File("J111_file_handling.txt");
 //        try {
 //            Scanner sc = new Scanner(myFile);
 //            while (sc.hasNextLine()) {
@@ -38,7 +34,7 @@ public class CWH_111_file_handling {
 //        }
 
 //        Deleting a file:-
-        File myFile = new File("CWH_111_file_handling.txt");
+        File myFile = new File("J111_file_handling.txt");
         if (myFile.delete()) {
             System.out.println("I have deleted: " + myFile.getName());
         } else {

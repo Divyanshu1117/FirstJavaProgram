@@ -1,7 +1,7 @@
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class CWH_112_ps15_5 {
+public class J112_ps15_5 {
     public static void main(String[] args) {
         int i = 19;
         String table = "";

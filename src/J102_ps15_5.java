@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class CWH_102_ps15_5 {
+public class J102_ps15_5 {
     public static void main(String[] args) {
         HashSet<Integer> s = new HashSet();
         s.add(5);

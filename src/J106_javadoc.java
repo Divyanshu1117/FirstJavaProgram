@@ -7,13 +7,13 @@
  * @see <a href="https://docs.oracle.com/en/java/javase/27/docs/api/index.html" target="_blank">Java Docs</a>
  * @since 2002
  **/
-public class CWH_106_javadoc {
+public class J106_javadoc {
     public void add(int a, int b) {
         int c = a + b;
         System.out.println("The Sum is:- " + c);
     }
 
     public static void main(String[] args) {
-        System.out.println("This is my main method");
+        System.out.println("Hello World!");
     }
 }

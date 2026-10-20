@@ -66,7 +66,7 @@ class CustomCalculator {
     }
 }
 
-public class CWH_103_ex6sol {
+public class J103_ex6sol {
     public static void main(String[] args) throws InvalidInputException, CannotDivideByZeroException,
             MaxInputException, MaxMultiplyInputException {
         CustomCalculator c = new CustomCalculator();

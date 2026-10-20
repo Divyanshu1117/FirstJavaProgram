@@ -2,7 +2,7 @@ interface MyInt {
     void display();
 }
 
-public class CWH_112_ps15_4 {
+public class J112_ps15_4 {
     public static void main(String[] args) {
 //        myInt i = new myInt() {
 //            @Override

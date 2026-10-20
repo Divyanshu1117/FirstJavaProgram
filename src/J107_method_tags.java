@@ -1,12 +1,12 @@
 /**
  * This is a good class.
  */
-public class CWH_107_method_tags {
+public class J107_method_tags {
     /**
      * @param args These are arguments supplied to the command line.
      */
     public static void main(String[] args) {
-        System.out.println("This is my main method");
+        System.out.println("Hello World!");
     }
 
     /**

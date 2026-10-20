@@ -29,7 +29,7 @@ interface DemoAno {
 //    }
 //}
 
-public class CWH_109_anonymous_class_and_lambda_expressions {
+public class J109_anonymous_class_and_lambda_expressions {
     public static void main(String[] args) {
 
 //        DemoAno obj = new AnnonyDemo();

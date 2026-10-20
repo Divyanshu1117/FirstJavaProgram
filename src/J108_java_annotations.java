@@ -16,7 +16,7 @@ class NewPhone extends Phone {
     }
 }
 
-public class CWH_108_java_annotations {
+public class J108_java_annotations {
     @SuppressWarnings("deprecation")
     public static void main(String[] args) {
         NewPhone phone = new NewPhone();
